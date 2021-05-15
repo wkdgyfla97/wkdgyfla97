@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdgyfla97)](https://github.com/wkdgyfla97/github-readme-stats)
-(https://github-readme-stats.vercel.app/api?username=wkdgyfla97&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdgyfla97&show_icons=true&theme=tokyonight)
 
 
 <!--
