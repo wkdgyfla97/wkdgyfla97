@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdgyfla97)](https://github.com/wkdgyfla97/github-readme-stats)
+
+
 <!--
 **wkdgyfla97/wkdgyfla97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
